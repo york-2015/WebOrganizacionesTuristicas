@@ -1,0 +1,18 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.sin-float{
+	float: none;
+	display: inline-block;
+}
+
+li{
+	list-style-type:none;
+}
+.nose1{
+	font-size:30em;
+}
+.aliniar-vertical{
+	vertical-align: top;
+}
