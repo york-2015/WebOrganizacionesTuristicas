@@ -1,4 +1,4 @@
-body{
+* {
 	padding: 0px;
 	margin: 0px;
 }
@@ -15,4 +15,53 @@ li{
 }
 .aliniar-vertical{
 	vertical-align: top;
+}
+
+/*---------------------------space-----------------------------*/
+.espacio-los-lados{
+	padding-right: 1.28em;
+	padding-left: 1.28em;
+}
+.espacio-los-lados2 li{
+	padding-left: 4em;
+
+}
+.space-top{
+	margin-top: 1.4em;
+}
+
+/*---------------------------COLOR-------------------------------*/
+.fondo-menu-color{
+	background-color: #BE8059;
+}
+.seleste{
+	color: #62C0A5;
+}
+.seleste-oscuro{
+	color: #68A495;
+}
+.marron{
+	color: #A59E4F;
+}
+.morado{ 	
+	color: #BE8059;
+}
+.gris-claro{
+	color: #F2F2F0;
+}
+/*-----------------------------------fuente---------------------------*/
+.play{
+	font-family: 'Play', sans-serif;
+}
+.taviraj{
+	font-family: 'Taviraj', serif;
+}
+.openSans{
+	font-family: 'Open Sans', sans-serif;
+}
+.tamno-fuente{
+	font-size: 1.3em;
+}
+.tamno-fuente2{
+	font-size: 2em;
 }
